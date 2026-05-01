@@ -1,0 +1,7 @@
+.venv/
+.python_packages/
+__pycache__/
+.pytest_cache/
+.funcignore.user
+local.settings.json
+uv.lock

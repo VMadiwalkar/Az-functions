@@ -1,0 +1,8 @@
+.venv/
+.git/
+.gitignore
+tests/
+__pycache__/
+.pytest_cache/
+local.settings.json
+*.pyc
